@@ -13,3 +13,7 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 }
+.conteiner {
+  display: flex;
+  align-items: center;
+}
