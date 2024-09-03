@@ -29,7 +29,7 @@
     position: absolute;
     top: 100%;
 }
-.conteiner__botao:checked ~ .lista-menu{
+.container__botao:checked~.lista-menu{
     display: block;
 }
 .lista-menu__título, 
