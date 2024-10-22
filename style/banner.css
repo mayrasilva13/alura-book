@@ -1,10 +1,11 @@
-.banner{
+.banner {
     background: var(--azul-degrade);
-    color:var(--branco);
+    color: var(--branco);
     text-align: center;
     padding: 2,5em 2em;
 }
-.banner_título{
+
+.banner_titulo {
     font-size: 18px;
     font-weight: 700;
 }

@@ -1,0 +1,17 @@
+@import url(style/header.css);
+@import url(style/banner.css);
+
+:root{
+    --cor-de-fundo: #cacaca;
+    --branco: #FFFFFF;
+    --laranja: #eb9b00;
+    --azul-degrade: #002f52;
+
+    }
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+
+
